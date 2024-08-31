@@ -73,3 +73,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - Inspired by console-based applications and ticket booking systems.
+
+## Resume Content - 
+Title - Movie Ticket Booking System
+ • Developed a console-based application for viewing movies, selecting seats, and booking tickets.
+ May 2024- June 2024
+ • Utilized Java and OOP principles with classes like Movie, Seat, Theater, Reservation, User, and BookingSystem.
