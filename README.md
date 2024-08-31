@@ -66,10 +66,6 @@ A console-based application for booking movie tickets. This project is designed 
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - Inspired by console-based applications and ticket booking systems.
